@@ -5,9 +5,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+* LOVE IS COMMING TO ME. 
 
 <details>
-  <summary>More</summary>
+  <summary>More..</summary>
   <br>
   <p><i> Apizzz </i><p>
 

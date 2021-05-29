@@ -1,7 +1,6 @@
 <CENTER><p align="center"><h1><big><b>// ABOUT ME //</b></big></h1></p></CENTER>
 
 **APIRAK OULIS**
-===
 
 - 👋 Hi, I’m @Apizz789
 - 👀 I’m interested in Brill Chatkul (Just Real)

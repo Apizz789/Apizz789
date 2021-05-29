@@ -14,6 +14,7 @@
   - I stay at **[Facebook](https://www.facebook.com/nongpluemapirakoulis)** Pls let me know by your name.
   - I want to go travel. ⭐️
   - I like AKB48.
+  
                 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apizz789&show_icons=true&theme=nord)  
 
   <br><br>

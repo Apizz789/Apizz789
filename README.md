@@ -1,4 +1,4 @@
-<p align="center"> // ABOUT ME // </p>
+<p align="center"><big><b>// ABOUT ME //</b></big></p>
 
 - 👋 Hi, I’m @Apizz789
 - 👀 I’m interested in Brill Chatkul (Just Real)

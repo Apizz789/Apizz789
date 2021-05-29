@@ -1,4 +1,4 @@
-<p align="center"><big><big><b>// ABOUT ME //</b></big></big></p>
+<p align="center"><big><b>// ABOUT ME //</b></big></p>
 
 - 👋 Hi, I’m @Apizz789
 - 👀 I’m interested in Brill Chatkul (Just Real)
@@ -15,7 +15,7 @@
   - I want to go travel. ⭐️
   - I like AKB48.
     
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apizz789&show_icons=true&theme=nord)  
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apizz789&show_icons=true&theme=algolia)  
 
   <br><br>
 </details>

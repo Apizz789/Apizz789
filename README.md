@@ -9,7 +9,7 @@
 - 📫 How to reach me ...
 * LOVE IS COMMING TO ME. 
 
-<h3 align="center"><b>*Bug is not insect, it is my live !!!*</b></h3>
+<h3 align="center"><b>*Bug is not insect, it is my life !!!*</b></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

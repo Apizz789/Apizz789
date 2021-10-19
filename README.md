@@ -4,11 +4,18 @@
 
 **APIRAK OULIS**
 
-- 👋 Hi, I’m @Apizz789
+<!-- - 👋 Hi, I’m @Apizz789
 - 👀 I’m interested in ****** (Just Real)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
+
+- Hi, I'm Apirak Oulis : You can call me -> Pluem. 💕
+- I live in Bangkok, Thailand. 😎
+- I newbie in Programmer. 👨‍💻
+- My Dream : I want to be (maybe) Software Developer and Hardware Design. 🤑🤑🤑🤑
+
+* 2021 Year of Change.
 * LOVE IS COME TO ME. 
 
 <h3 align="center"><b>*Bug is not insect, it is my life !!!*</b></h3>

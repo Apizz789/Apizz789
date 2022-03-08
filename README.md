@@ -34,7 +34,7 @@
   <p><i> Apizzz </i><p>
 
   - I stay at **[Facebook](https://www.facebook.com/nongpluemapirakoulis)** Pls let me know by your name.
-  - For more **[LinkedIn](www.linkedin.com/in/apirak-oulis)**
+  - For more **[LinkedIn](https://www.linkedin.com/in/apirak-oulis/)**
   - I want to go travel. ⭐️
   - I like AKB48.
   - Love You All.  

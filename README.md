@@ -14,6 +14,7 @@
 - I live in Bangkok, Thailand. 😎
 - I newbie in Programmer. 👨‍💻
 - My Dream : I want to be (maybe) Software Developer and Hardware Design. 🤑🤑🤑🤑
+- Enthusiastic, Flexibility, Leadership are my strength. I’m a problem solver and hardworking for software development and hardware analysis to improve programming potential.
 
 * 2022 Year of Success.
 * LOVE IS COME TO ME. 

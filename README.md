@@ -29,7 +29,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/Apizz789) 
 ![Profile views](https://gpvc.arturio.dev/Apizz789)  
 <details>
-  <summary>More..</summary>
+  **<summary>More..</summary>**
   <br>
   <p><i> Apizzz </i><p>
 

@@ -37,7 +37,8 @@
   - For more **[LinkedIn](https://www.linkedin.com/in/apirak-oulis/)**
   - I want to go travel. ⭐️
   - I like AKB48.
-  - Love You All.  
+  - Love You All. 
+  - Be yourself
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apizz789)](https://github.com/anuraghazra/github-readme-stats)
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apizz789&show_icons=true&theme=algolia)

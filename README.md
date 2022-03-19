@@ -47,6 +47,6 @@
 
   <br><br>
 </details>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apizz789&theme=solarized_dark)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apizz789)  
 ===

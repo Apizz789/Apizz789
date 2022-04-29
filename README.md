@@ -2,6 +2,10 @@
 <h1 align= "center" ><big><b>// ABOUT ME Apizz789 //</b></big>
 </h1></p></CENTER>
 
+<div align= "center">
+<img  src="https://github.com/Apizz789/Apizz789/blob/main/Pluem.png" width="900" height="500" /></div>
+
+
 **APIRAK OULIS**
 
 <!-- - 👋 Hi, I’m @Apizz789

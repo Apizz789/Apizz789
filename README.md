@@ -3,7 +3,7 @@
 </h1></p></CENTER>
 
 <div align= "center">
-<img  src="https://github.com/Apizz789/Apizz789/blob/main/Pluem.png" width="900" height="500" /></div>
+<img  src="https://github.com/Apizz789/Apizz789/blob/main/Pluem.png" width="800" height="500" /></div>
 
 
 **APIRAK OULIS**

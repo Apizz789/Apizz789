@@ -3,7 +3,7 @@
 </h1></p></CENTER>
 
 <div align= "center">
-<img  src="https://github.com/Apizz789/Apizz789/blob/main/Pluem.png" width="800" height="500" /></div>
+<img  src="https://github.com/Apizz789/Apizz789/blob/main/Pluem.png" width="700" height="500" /></div>
 
 
 **APIRAK OULIS**
@@ -20,7 +20,7 @@
 - My Dream : I want to be (maybe) Software Developer and Hardware Design. 🤑🤑🤑🤑
 - Enthusiastic, Flexibility, Leadership are my strength. I’m a problem solver and hardworking for software development and hardware analysis to improve programming potential.
 
-* 2022 Year of Success.
+* 2025 Year of Success.
 * LOVE IS COME TO ME. 
 <hr/>
 <h3 align="center"><b>*Bug is not insect, it is my life !!!*</b></h3>
